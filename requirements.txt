@@ -1,0 +1,5 @@
+mcp
+strands-agents-tools
+strands-agents
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
